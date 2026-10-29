@@ -1,0 +1,8 @@
+model,Simplicity (1-5),Simplicity: why,Transparency (1-5),Transparency: why,Efficacy (1-5),Efficacy: why
+Linear regression,,,,,,
+Ridge,,,,,,
+XGBoost (tuned),,,,,,
+Keras MLP,,,,,,
+fastai tabular,,,,,,
+TabNet,,,,,,
+PyTorch Lightning MLP,,,,,,
